@@ -21,7 +21,7 @@ textarea {
   border-bottom: 10px solid black;
 }
 
-.description {
+.description {   
   white-space: pre-wrap;
 }
 
@@ -54,7 +54,7 @@ textarea {
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: rgb(66, 3, 3);
 }
 
 .saveBtn {
